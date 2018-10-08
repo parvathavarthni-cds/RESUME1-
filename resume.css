@@ -1,0 +1,28 @@
+.img
+{
+  top:150;
+  right:200;
+  position: absolute;
+  width:200px;
+  height:200px;
+    }
+.table{
+  color:blue;
+}
+.top
+{
+  border:2px solid black;
+  margin:auto;
+  margin-top:5%;
+  margin-bottom:5%;
+  padding:8px;
+  height:auto;
+  width:40%;
+  background-color:#808080;
+  color:221f1d;
+  font-size:16;
+  font-family:serif;
+}
+li{
+  color:blue;
+}
