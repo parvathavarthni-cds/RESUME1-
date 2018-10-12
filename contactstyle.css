@@ -1,0 +1,106 @@
+.navdesign
+{
+      line-height: 15px;
+       color:white;
+       height: 50px;
+}
+#p01
+{
+ ub
+ color:white;
+ padding-top:5%;
+ font-family:Georgia, serif;
+ font-size: 20px;
+ font-style: italic;
+ text-align:center;
+}
+#arrowdesign
+{
+color:white;
+padding-right:20px;
+background-color:#6666ff;
+font-size:50px;
+bckground:transparent;
+}
+.bg-style
+{
+  background-color:#6666ff;
+  width:100%;
+padding-right: 0px;
+}
+
+#search{
+ background:transparent;
+ color:white;
+ margin-right:30px;
+ font-size:30px;
+}
+.arrow{
+  right:20;
+  top:650;
+  position: absolute;
+  color:#6666ff;
+  background:transparent;
+  font-size:40px;
+}
+#p02
+{
+  font-family:Georgia, serif;
+   font-size: 12px;
+   font-style: italic;
+   line-height:20px;
+}
+
+#spanstyle
+{
+  padding-bottom:20px;
+  margin-top:15px;
+}
+#h01
+{
+  font-size:75px;
+  padding-right:20px;
+}
+.checkcircle
+{
+  psition:absolute;
+  background:transparent;
+  float:right;
+  float:top;
+  top:0%;
+  color: green;
+  font-size:30px;
+}
+hr{
+    border-bottom: 1px;
+    box-shadow: 0 1px 0 0 #404040;
+}
+.txtsize{
+ height:10px;
+ margin-top:3px;
+}
+.emoji{
+ background:transparent;
+ width:30px;
+ text-align:center;
+ font-size: 24px;
+ font-size-adjust: auto;
+}
+.padding{
+  padding-left:14px;
+}
+
+.p03
+{
+  padding-left:6px;
+}
+.background
+{
+  background-image: url(11.jpg);
+   padding-bottom:100%;
+   padding-right:0px;
+   width:100%;
+}
+.container-fluid{
+  padding-right:0px;
+}
